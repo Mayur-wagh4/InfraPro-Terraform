@@ -182,21 +182,6 @@ terraform apply 2>&1 | tee debug.log  # Save logs for review
 
 ---
 
-## **📌 9. Real-World Terraform Use Cases**  
-
-### **✅ Terraform with Ansible**
-📍 **Project:** **Automating infrastructure provisioning and configuration using Terraform & Ansible.**  
-🔗 **[Get it here](https://github.com/your-username/terraform-ansible-integration)**  
-
-### **✅ Terraform with GitHub**
-📍 **Project:** **Managing GitHub repositories, teams, and settings as code with Terraform.**  
-🔗 **[Get it here](https://github.com/your-username/terraform-github-automation)**  
-
-### **✅ Terraform for AWS EKS**
-📍 **Project:** **Provisioning a production-ready Kubernetes cluster using Terraform on AWS EKS.**  
-🔗 **[Get it here](https://github.com/your-username/terraform-eks-setup)**  
-
----
 
 ## **📌 Final Thoughts**  
 
